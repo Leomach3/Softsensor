@@ -1,6 +1,7 @@
 # Introducción.
 
 *Aqui encontraras un modelo de softsensor en el dataset ‘Kamyr digester’ para el proceso de fabricacion de pulpa y papel.
+
 *Tambien una breve descripcion de lo que son los softsensor y el metodo empleado en su desarrollo que fue PLS (Partial Least Squares)
 
 ## Softsensor.
