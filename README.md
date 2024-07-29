@@ -6,7 +6,7 @@
 
 ## Softsensor.
 
-Un softsentor es un término ampliamente utilizado para describir sensores basados ​​en software, que es una técnica para estimar parámetros relacionados con la calidad "difíciles de medir" en procesos industriales. También se conocen como sensores virtuales, estimadores/modelos inferenciales y sensores basados ​​en observadores. Los softsensors se basan en modelos matemáticos o empíricos que asignan un conjunto de variables de proceso de entrada a un parámetro de calidad, de modo que los parámetros de calidad "difíciles de medir" en las industrias de proceso se puedan estimar con precisión utilizando un conjunto de variables de proceso de entrada "fáciles de medir".
+Un softsensor es un término ampliamente utilizado para describir sensores basados ​​en software, que es una técnica para estimar parámetros relacionados con la calidad "difíciles de medir" en procesos industriales. También se conocen como sensores virtuales, estimadores/modelos inferenciales y sensores basados ​​en observadores. Los softsensors se basan en modelos matemáticos o empíricos que asignan un conjunto de variables de proceso de entrada a un parámetro de calidad, de modo que los parámetros de calidad "difíciles de medir" en las industrias de proceso se puedan estimar con precisión utilizando un conjunto de variables de proceso de entrada "fáciles de medir".
 
 Yasith S. Perera, D.A.A.C. Ratnaweera, Chamila H. Dasanayaka, Chamil Abeykoon,The role of artificial intelligence-driven soft sensors in advanced sustainable process industries: A critical review,Engineering Applications of Artificial Intelligence,Volume 121,2023,105988,ISSN 0952-1976,https://doi.org/10.1016/j.engappai.2023.105988.(https://www.sciencedirect.com/science/article/pii/S0952197623001720)
 
