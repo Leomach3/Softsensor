@@ -45,4 +45,4 @@ Aquí hay una explicación sencilla de cómo funciona:
 - **Poder Predictivo**: PLS está diseñado para maximizar el poder predictivo del modelo, haciéndolo muy efectivo para tareas de regresión.
 
 
-
+Nota: Ejemplo adaptado del libro:'Machine Learning in Python for Process Systems Engineering' https://mlforpse.com/books/
